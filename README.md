@@ -1,7 +1,12 @@
 ### Hi there 👋
+Adil Tagguine
+Senior software Engineer
 
-<!--
-**Tagguine/Tagguine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A process oriented software engineer passionate about technology, development aspects with 6+ years of experience.
+Full-stack in creating and executing innovative software solutions to improve business productivity. 
+Highly experienced in all aspects of the software development lifecycle and end-to-end project management from concept to development and delivery. 
+Consistently recognized as a hands-on and knowledgeable leader, skilled at coordinating cross-functional teams in a fast-paced, 
+deadline-driven environment to guide timely project completion within budget constraints.
 
 Here are some ideas to get you started:
 
